@@ -1,9 +1,14 @@
 ![image](https://github.com/MatheusBettim/TrAIning/assets/91640894/5a9b00ce-107a-4905-b852-bb2674742020)
+![image](https://github.com/MatheusBettim/TrAIning/assets/91640894/c56fe40b-c3b7-45ba-ae73-616bf7518b9c)
 
 # TrAIning
 Checkpoint 2 &amp; 3
 
-Uso de Machine Learning para contador de cestas de 2/3 pontos, e calcular porcentagem de acertos e erros.
+**Machine Learning para Contagem de Arremessos e Otimização de Treinamento Individual**
+
+Machine learning pode ser aplicado para criar um contador de arremessos em cestas de 2/3 pontos, calculando e mapeando a porcentagem de acertos e erros de um jogador durante treinamentos individuais. Os algoritmos de visão computacional podem monitorar quando um arremesso é realizado, rastreando a trajetória da bola e identificando se ela entra na cesta ou não. O sistema também pode distinguir entre arremessos de 2 pontos e 3 pontos com base na posição do jogador na quadra.
+
+Com essas informações, o sistema pode calcular a precisão do jogador ao longo do tempo, fornecendo estatísticas detalhadas para orientação do treinamento individual. Isso auxilia o atleta a entender suas áreas fortes e fracas, possibilitando que ele se concentre em melhorar seus pontos fracos ou em otimizar suas técnicas. Além disso, o mapeamento visual da porcentagem de acertos e erros em diferentes áreas da quadra pode revelar padrões e tendências específicas de arremesso, permitindo um treinamento mais direcionado e eficaz.
 
 **Utilizando Machine Learning para Aprimorar Treinos Especializados em Basquete**
 
