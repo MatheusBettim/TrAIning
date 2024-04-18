@@ -1,6 +1,8 @@
 ![image](https://github.com/MatheusBettim/TrAIning/assets/91640894/5a9b00ce-107a-4905-b852-bb2674742020)
 ![image](https://github.com/MatheusBettim/TrAIning/assets/91640894/64da38cf-2133-4649-9948-80af88923200)
 
+https://colab.research.google.com/drive/1dvfMct-VlOM38rMe0lSnXfdrPhRGIITv#scrollTo=y1NMMxYBdzWn
+
 # TrAIning
 Checkpoint 2 &amp; 3]
 
