@@ -17,3 +17,22 @@ Requisitos:
 2 - escolher mais de um video
 3 - plotar os pontos
 4 - fazer o menu grafico com nivel de dificuldade
+
+Para fazer:
+
+Home de seleção dos Modos ✅
+
+*todos durante 1 minuto*
+
+College Mode ✅ (círculos verdes aparecem a cada 5 seg)
+
+Rookie Mode ❌ (círculos verdes aparecem a cada 3 seg)
+
+All Star Mode ❌ (círculos verdes e vermelhas aparecem a cada 3 seg em diferentes coordenadas)
+
+MVP Mode ❌(círculos laranjas aparecem a cada 5 seg, o jogador deve passar a bola nesses círculos)
+
+Próximos passos:
+Densepose e detectar a bola (Usar mediapipe) -> Testar com vídeos ❌
+
+Mão e bola em contato c os círculos (Contador de Pontos) ❌
