@@ -30,7 +30,7 @@ Rookie Mode ❌ (círculos verdes aparecem a cada 3 seg)
 
 All Star Mode ❌ (círculos verdes e vermelhas aparecem a cada 3 seg em diferentes coordenadas)
 
-MVP Mode ❌(círculos laranjas aparecem a cada 5 seg, o jogador deve passar a bola nesses círculos)
+MVP Mode ❌(círculos laranjas aparecem a cada 5 seg, o jogador deve passar a bola nesses círculos) - Configurar apenas para aparecer abaixo da metade da tela
 
 Próximos passos:
 Densepose e detectar a bola (Usar mediapipe) -> Testar com vídeos ❌
