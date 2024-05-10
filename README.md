@@ -3,6 +3,9 @@
 
 https://colab.research.google.com/drive/1dvfMct-VlOM38rMe0lSnXfdrPhRGIITv#scrollTo=y1NMMxYBdzWn
 
+Videos Teste:
+https://www.youtube.com/watch?v=oADaM2L1YLc&t=96s
+
 # TrAIning
 Checkpoint 2 &amp; 3]
 
