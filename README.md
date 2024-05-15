@@ -29,11 +29,11 @@ Home de seleção dos Modos ✅
 
 College Mode ✅ (círculos verdes aparecem a cada 5 seg)
 
-Rookie Mode ❌ (círculos verdes aparecem a cada 3 seg)
+Rookie Mode ✅ (círculos verdes aparecem a cada 3 seg)
 
-All Star Mode ❌ (círculos verdes e vermelhas aparecem a cada 3 seg em diferentes coordenadas)
+All Star Mode ✅ (círculos verdes e vermelhas aparecem a cada 3 seg em diferentes coordenadas)
 
-MVP Mode ❌(círculos laranjas aparecem a cada 5 seg, o jogador deve passar a bola nesses círculos) - Configurar apenas para aparecer abaixo da metade da tela
+MVP Mode ✅(círculos laranjas aparecem a cada 5 seg, o jogador deve passar a bola nesses círculos) - Configurar apenas para aparecer abaixo da metade da tela
 
 Próximos passos:
 Densepose e detectar a bola (Usar mediapipe) -> Testar com vídeos 🔄️
