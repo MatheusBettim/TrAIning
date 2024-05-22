@@ -1,0 +1,36 @@
+{
+    "configs":{
+
+    },
+    "dificuldade":[
+        {
+            "dif": "College",
+            "intervalo": 7,
+            "ball_height": false,
+            "bh":0,
+            "highscore":0
+        },
+        {
+            "dif": "Rookie",
+            "intervalo": 5,
+            "ball_height": false,
+            "bh":0,
+            "highscore":0
+
+        },
+        {
+            "dif": "All Star",
+            "intervalo": 5,
+            "ball_height": true,
+            "bh":0,
+            "highscore":0
+        },
+        {
+            "dif": "M.V.P",
+            "intervalo": 3,
+            "ball_height": true,
+            "bh":0,
+            "highscore":0
+        }
+    ]
+}
