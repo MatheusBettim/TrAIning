@@ -1,7 +1,10 @@
 RM88747 - Rafael Hideki Murata
+
 RM86865 - Bruno Coccetrone Pelorca
 RM87875 - Matheus Bettim Carvalho Neto
+
 RM87192 - Guilherme Garcia Silveira
+
 RM82035 - João Molliet
 
 ![image](https://github.com/MatheusBettim/TrAIning/assets/91640894/5a9b00ce-107a-4905-b852-bb2674742020)
