@@ -16,6 +16,9 @@ https://colab.research.google.com/drive/1dvfMct-VlOM38rMe0lSnXfdrPhRGIITv#scroll
 Videos Teste:
 https://www.youtube.com/watch?v=oADaM2L1YLc&t=96s
 
+https://www.youtube.com/watch?v=ivh_rLhFaQk
+https://www.youtube.com/watch?v=EDhUIPsHwqw
+
 # TrAIning
 Checkpoint 2 &amp; 3]
 
